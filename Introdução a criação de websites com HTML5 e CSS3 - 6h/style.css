@@ -1,0 +1,54 @@
+/* Alterar a cor do fundo do site */
+body {
+    background-color: white;
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Alterando a img do header */
+.header_img {
+    width: 100%;
+}
+
+/* Alterar as cores dos titulos */
+#title, .subtitle, .post_title {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Alterar o tamanho e a letra da classe */
+.post_title {
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+/* Alterar a cor/margem do fundo do post */
+.post {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Alterar a margem do fundo do post */
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Alterar a margem do fundo da img */
+.post_img {    
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+/* Alterar a lista do footer */
+.contacts_lists {    
+    list-style-type: none;
+    padding-left: 15px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
